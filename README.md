@@ -6,6 +6,7 @@
 ```bash
 pip install pandas
 pip install scripts
+pip install openpyxl
 ```
 # Связь
 По любым вопросам можете обращаться напрямую ко мне здесь: https://t.me/dariaplat1
