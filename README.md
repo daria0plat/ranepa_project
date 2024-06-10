@@ -5,7 +5,6 @@
 Для работы скрипта необходимо поместить файлы main.py, script.py и файл excel в одну папку. Для обработки данных в программе используется пакет pandas. Вам необходимо ввести в Shell:
 ```bash
 pip install pandas
-pip install scripts
 pip install openpyxl
 ```
 # Связь
